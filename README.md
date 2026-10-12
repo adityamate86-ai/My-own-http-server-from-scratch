@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![progress-banner](https://backend.codecrafters.io/progress/http-server/f76de20e-2222-4e5c-b94f-90d08aed9276)](https://app.codecrafters.io/users/adityamate86-ai?r=2qF)
 
 This is a starting point for C++ solutions to the
@@ -35,3 +36,7 @@ Note: This section is for stages 2 and beyond.
    `src/main.cpp`.
 1. Run `codecrafters submit` to submit your solution to CodeCrafters. Test
    output will be streamed to your terminal.
+=======
+# My-own-http-server-from-scratch
+building my own http server from scratch using cpp, rust and golang
+>>>>>>> origin/main
